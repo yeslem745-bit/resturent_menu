@@ -1,0 +1,96 @@
+{
+  "node": {
+    "40104605642193b94420d77b40df2f977caf86a86e": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": 50430,
+          "async": false,
+          "exportedName": "deleteCategoryAction",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser"
+      },
+      "filename": "lib/actions.ts",
+      "exportedName": "deleteCategoryAction"
+    },
+    "60320fdc518445e4ed0280336f10606eb7f37f7b45": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": 50430,
+          "async": false,
+          "exportedName": "updateCategoryAction",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser"
+      },
+      "filename": "lib/actions.ts",
+      "exportedName": "updateCategoryAction"
+    },
+    "40899c0180635198fdb24b4cc30c1f9c95dcf74e17": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": 50430,
+          "async": false,
+          "exportedName": "deleteProductAction",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser"
+      },
+      "filename": "lib/actions.ts",
+      "exportedName": "deleteProductAction"
+    },
+    "6010212e6d8ac00a7fb21b6cd63e42ae8424056758": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": 50430,
+          "async": false,
+          "exportedName": "updateProductAction",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser"
+      },
+      "filename": "lib/actions.ts",
+      "exportedName": "updateProductAction"
+    },
+    "40b349e2213a642cebc9558c33f0a4c6d25a6376ec": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": 50430,
+          "async": false,
+          "exportedName": "addCategoryAction",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser"
+      },
+      "filename": "lib/actions.ts",
+      "exportedName": "addCategoryAction"
+    },
+    "402e33567e1577e97c724bfec52963089c17d9c096": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": 50430,
+          "async": false,
+          "exportedName": "addProductAction",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser"
+      },
+      "filename": "lib/actions.ts",
+      "exportedName": "addProductAction"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "J4Quth+irYUY7nsDvyhd8bCn0wCPw7MGjKb3tfZMGy0="
+}
